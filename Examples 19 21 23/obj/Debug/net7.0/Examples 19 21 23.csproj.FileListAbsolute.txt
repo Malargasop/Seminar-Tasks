@@ -1,0 +1,15 @@
+C:\Users\pupil\Desktop\Examples 19 21 23\bin\Debug\net7.0\Examples 19 21 23.exe
+C:\Users\pupil\Desktop\Examples 19 21 23\bin\Debug\net7.0\Examples 19 21 23.deps.json
+C:\Users\pupil\Desktop\Examples 19 21 23\bin\Debug\net7.0\Examples 19 21 23.runtimeconfig.json
+C:\Users\pupil\Desktop\Examples 19 21 23\bin\Debug\net7.0\Examples 19 21 23.dll
+C:\Users\pupil\Desktop\Examples 19 21 23\bin\Debug\net7.0\Examples 19 21 23.pdb
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.csproj.AssemblyReference.cache
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.AssemblyInfoInputs.cache
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.AssemblyInfo.cs
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.csproj.CoreCompileInputs.cache
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.dll
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\refint\Examples 19 21 23.dll
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.pdb
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\Examples 19 21 23.genruntimeconfig.cache
+C:\Users\pupil\Desktop\Examples 19 21 23\obj\Debug\net7.0\ref\Examples 19 21 23.dll
